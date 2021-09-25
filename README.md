@@ -1,6 +1,6 @@
 # Hasil-Eksplorasi-Produk-Google
 Hasil Eksplorasi Produk Google
-https://github.com/Nico010102/Hasil-Eksplorasi-Produk-Google/issues/1#issue-1007077681
+![download](https://user-images.githubusercontent.com/91375298/134772200-0a1c7b78-3b24-43b8-bdbe-2ec768012809.png)
 Siapa yang ga kenal dengan gambar di atas? iyaps gambar di atas adalah Google Classroom
 
 Google Classroom (Ruang Kelas Google) adalah suatu serambi aplikasi pembelajaran campuran secara online yang dapat digunakan secara gratis. Pendidik bisa membuat kelas mereka sendiri dan membagikan kode kelas tersebut atau mengundang para siswanya. Google Classroom ini diperuntukkan untuk membantu semua ruang lingkup pendidikan yang membantu siswa untuk menemukan atau mengatasi kesulitan pembelajaran, membagikan pelajaran dan membuat tugas tanpa harus hadir ke kelas.
