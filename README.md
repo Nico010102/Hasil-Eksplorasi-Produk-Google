@@ -13,8 +13,13 @@ Tujuan utama Google Classroom adalah untuk merampingkan proses berbagi file anta
 Setiap kelas membuat folder terpisah di Drive masing-masing pengguna, dimana siswa dapat mengirimkan pekerjaan untuk dinilai oleh guru. Aplikasi ini tersedia bagi pengguna seluler perangkat iOS dan Android yang memungkinkan pengguna mengambil foto dan melampirkan penugasan, berbagi file dari aplikasi lain dan mengakses informasi secara offline. Guru dapat memantau kemajuan untuk setiap siswa, dan setelah dinilai, guru dapat kembali bekerja bersama dengan komentar.
 
 Ada beberapa fungsi dan keunggulan yang bisa didapatkan dari Google Classroom dalam pemanfaatannya sebagai Learning Management System (LMS), yaitu :
+
 -Proses setting pembuatan kelas yang cepat dan nyaman
+
 -Hemat dan efisiensi waktu
+
 -Mampu meningkatkan kerjasama dan komunikasi 
+
 -Penyimpanan data yang terpusat
+
 -Berbagi sumber daya yang efisien, praktis dan cepat
